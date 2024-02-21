@@ -1,0 +1,22 @@
+Total users: 2
+Total tasks: 5
+
+User: admin
+Tasks assigned: 2
+Percentage of total tasks: 40.0%
+Completed tasks: 1
+Percentage of completed tasks: 50.0%
+Remaining tasks: 1
+Percentage of remaining tasks: 50.0%
+Overdue tasks: 1
+Percentage of overdue tasks: 50.0%
+
+User: admin2
+Tasks assigned: 3
+Percentage of total tasks: 60.0%
+Completed tasks: 0
+Percentage of completed tasks: 0.0%
+Remaining tasks: 3
+Percentage of remaining tasks: 100.0%
+Overdue tasks: 1
+Percentage of overdue tasks: 33.33%
